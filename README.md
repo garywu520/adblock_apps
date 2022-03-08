@@ -18,7 +18,7 @@ From: https://github.com/nativefier/nativefier
 
 <br>
 
-## USAGE
+## Usage
 
 Use nativefier to generate Web as App, example:
 
