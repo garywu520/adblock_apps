@@ -51,6 +51,11 @@ Different User-Agent access APP interface will be different, it is automatically
 
 <br>
 
+## Download
+https://github.com/garywu520/webapps-ads-removal/releases
+
+<br>
+
 ## License
 
 [MIT.](https://github.com/garywu520/webapps-ads-removal/blob/main/LICENSE)
