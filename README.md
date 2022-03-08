@@ -41,9 +41,13 @@ Replace the following User-Agent
 |    Youtube    | Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp) |    Yes     |
 | Youtube-Music | Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Firefox/42.0 |    Yes     |
 
-Submit suggestions to improve this project.
+Different User-Agent access APP interface will be different, it is automatically adjusted according to the terminal
 
-If it involves infringement, please contact me to delete it in time.
+<br>
+
+**Other:**
+- Submit suggestions to improve this project.
+- If it involves infringement, please contact me to delete it in time.
 
 <br>
 
