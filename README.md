@@ -49,4 +49,4 @@ If it involves infringement, please contact me to delete it in time.
 
 ## License
 
-MIT.
+[MIT.](https://github.com/garywu520/webapps-ads-removal/blob/main/LICENSE)
