@@ -40,7 +40,7 @@ Replace the following User-Agent
 | :-----------: | :----------------------------------------------------------: | :--------: | :--------: |
 |    Twitter    | Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp) |    Yes     | Support |
 |    Youtube    | Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp) |    Yes     | Support |
-| Youtube-Music | Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Firefox/42.0 |    Yes     | Support |
+| Youtube-Music | Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Firefox/42.0 |    partially removed     | Support |
 
 Different User-Agent access APP interface will be different, it is automatically adjusted according to the terminal
 
