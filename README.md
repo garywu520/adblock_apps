@@ -2,6 +2,9 @@
 
 The older User-Agent terminals are no longer the mainstream advertising target, so you can use the "--user-agent" parameter of the nativefier open source tool to forcefully disguise User-Agent to achieve ad filtering. Of course, not most User-Agents can remove ads, you need to explore and test together.
 
+
+2022-05-30 Fix: account cannot log in (not supported by browser)
+
 <br>
 
 
@@ -27,7 +30,8 @@ Use nativefier to generate Web as App, example:
   --name Example \
   --tray \
   --internal-urls "(.*?)(accounts\.example\.com|example\.com)(.*?)" \
-  --user-agent 'Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)'
+  --user-agent 'Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)' \
+  --user-agent-honest=true
 ```
 
 <br>
