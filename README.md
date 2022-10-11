@@ -1,11 +1,6 @@
-## WARNING: STOP MAINTENANCE
 
 
-------------------------------------------------------------------------------------------------
-
-## Introduction
-
-The older User-Agent terminals are no longer the mainstream advertising target, so you can use the "--user-agent" parameter of the nativefier open source tool to forcefully disguise User-Agent to achieve ad filtering. Of course, not most User-Agents can remove ads, you need to explore and test together.
+By creating a Mac web application with specific User-Agent, ingeniously avoid advertising problems, such as: YouTube video ads, etc.
 
 
 
@@ -36,6 +31,10 @@ Use nativefier to generate Web as App, example:
   --internal-urls "(.*?)(accounts\.example\.com|example\.com)(.*?)" \
   --user-agent 'Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)'
 ```
+<br>
+
+## Maintain
+When NativeFier's new Release is released, in order to ensure normal use, you may need to upgrade it as soon as possible.
 
 <br>
 
@@ -45,18 +44,10 @@ Replace the following User-Agent
 
 |      App      |                          User-Agent                          | Ad Removed | Hide Play |
 | :-----------: | :----------------------------------------------------------: | :--------: | :--------: |
-|    Twitter    | Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp) |    Yes     | Support |
 |    Youtube    | Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp) |    Yes     | Support |
-| Instagram | Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp) |    Yes    | Support |
 
-Different User-Agent access APP interface will be different, it is automatically adjusted according to the terminal
-
-<br>
-
-**Other:**
-- ref: [All User-Agent](https://user-agents.net/)
-- Submit suggestions to improve this project.
-- If it involves infringement, please contact me to delete it in time.
+As of now, the YouTube video ads have been removed.
+For other web applications, please test it by yourself.
 
 <br>
 
