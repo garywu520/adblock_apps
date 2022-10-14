@@ -15,9 +15,9 @@ By creating a Mac web application with specific User-Agent, ingeniously avoid ad
 ```bash
 npm install -g nativefier
 
-#nativefier版本更新
+#Nativefier版本更新
 npm list -g --depth 0
-npm update Nativefier
+npm update nativefier
 ```
 
 From: https://github.com/nativefier/nativefier
